@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "cover": "https://i.ibb.co.com/VW0Qyq1/top-view-desk-concept-with-coffee.jpg",
+    "title": "The Secrets of Dawn",
+    "author": "Lily Turner",
+    "author_img": "https://i.ibb.co.com/sbvfgNW/profile.jpg",
+    "posted_date": "2024-01-10",
+    "reading_time": 7,
+    "hashtag": "#mystery #adventure #fiction"
+  },
+  {
+    "id": 2,
+    "cover": "https://i.ibb.co.com/Vw3Y6g2/8316980.jpg",
+    "title": "Whispers in the Wind",
+    "author": "Ethan Cole",
+    "author_img": "https://i.ibb.co.com/GRB09GR/profile2.jpg",
+    "posted_date": "2024-02-05",
+    "reading_time": 12,
+    "hashtag": "#romance #drama #bestseller"
+  },
+  {
+    "id": 3,
+    "cover": "https://i.ibb.co.com/VW0Qyq1/top-view-desk-concept-with-coffee.jpg",
+    "title": "Echoes of the Past",
+    "author": "Sophia Bennett",
+    "author_img": "https://example.com/images/author3.jpg",
+    "posted_date": "2024-03-15",
+    "reading_time": 9,
+    "hashtag": "#historical #thriller #mystery"
+  },
+  {
+    "id": 4,
+    "cover": "https://example.com/images/book4.jpg",
+    "title": "Shadows of Tomorrow",
+    "author": "Daniel Rivera",
+    "author_img": "https://example.com/images/author4.jpg",
+    "posted_date": "2024-04-20",
+    "reading_time": 6,
+    "hashtag": "#sciencefiction #futuristic #novel"
+  },
+  {
+    "id": 5,
+    "cover": "https://i.ibb.co.com/VW0Qyq1/top-view-desk-concept-with-coffee.jpg",
+    "title": "The Lost Chronicles",
+    "author": "Amelia Carter",
+    "author_img": "https://i.ibb.co.com/VW0Qyq1/top-view-desk-concept-with-coffee.jpg",
+    "posted_date": "2024-05-08",
+    "reading_time": 10,
+    "hashtag": "#fantasy #adventure #series"
+  }
+]
